@@ -1,0 +1,545 @@
+,product_name,allergies,p_price,verifications,rating,n_rating
+0,AH Tomatenblokjes gesneden,[],0.55,1823,0.6354120243720357,486
+1,AH Tomatenpuree,[],0.35,449,1.038130188394824,701
+2,AH Zonnebloemolie,[],2.99,1279,0.41625632976444726,638
+3,AH Tomatenblokjes gesneden 4-pack,[],,536,0.8088315802299417,71
+4,AH Tarwe bloem,[],0.65,804,3.0782080069214386,836
+5,AH Tomatenpuree 4-pack,[],,5,3.5528237174904835,41
+6,AH Tomatenpuree,[],0.49,1864,4.101797654608732,243
+7,AH Kristalsuiker,[],0.65,1992,1.5936960523247006,16
+8,AH Tomaten gezeefd passata,[],0.59,1760,2.5807821363556913,589
+9,AH Tortilla naturel wraps,[],0.92,174,1.8633680550117222,184
+10,Yum Yum Chicken flavour instant noodles,[],0.55,1846,4.753378820923374,57
+11,AH Rinse appelstroop,[],0.79,1574,1.9568986585692776,272
+12,AH Kokosmelk,[],0.99,1058,1.3598228564653692,782
+13,Unox Good noodles kip,[],0.65,1249,1.8554726927384184,887
+14,AH Groene pesto,[],3.00,915,0.5086174117934317,826
+15,Heinz Tomato Frito,[],0.89,1250,0.8362661208928834,296
+16,AH Groene olijven met knoflook,[],,977,0.24248424600046448,859
+17,AH Tortilla chips naturel,[],0.66,1876,3.7699660330886315,518
+18,AH Zilvervlies rijst,[],0.89,929,3.935062961515828,424
+19,AH Pizzadeeg tomatensaus,"['Glutenbevattende Granen, Tarwe']",1.99,369,4.668970361659857,477
+20,AH Penne,[],0.89,282,1.4761217358887673,600
+21,AH Spaghetti,"['Glutenbevattende Granen, Tarwe']",0.89,537,2.0894631138388324,315
+22,AH Kroepoek,"['25 gram', '4']",0.99,921,3.019695335005918,957
+23,AH Verse tagliatelle all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.19,1345,4.373605222131999,515
+24,AH Groene pesto,[],1.19,165,4.872975558737844,972
+25,Maza Hoemoes,[],1.79,689,2.4415025538945736,737
+26,AH Macaroni,"['Glutenbevattende Granen, Tarwe']",0.79,87,0.7323876701399917,4
+27,AH Croissantdeeg voor 6 croissants,"['Glutenbevattende Granen, Tarwe']",1.99,361,3.114677300614726,534
+28,AH Tortilla naturel wraps,[],1.79,1609,4.1544451769969335,194
+29,Conimex Kroepoek naturel,[],1.25,162,2.4070750736942514,993
+30,AH Olijfolie traditioneel,[],6.29,1091,3.5879775959491056,664
+31,AH Biologisch Volkoren penne rigate,"['Glutenbevattende Granen, Tarwe']",1.19,661,3.0553660814732595,66
+32,Mutti Polpa,[],1.39,404,1.4935417363149899,605
+33,Unox Good noodles groente,"['Selderij, Soja, Tarwe, Glutenbevattende Granen']",0.65,50,2.5844871903801887,447
+34,AH Rozijnen zongedroogd,[],1.95,680,1.6255491595182425,892
+35,AH Bladerdeeg,"['Glutenbevattende Granen, Tarwe']",0.79,1581,4.817674265591043,21
+36,AH Spaanse paella verspakket,['Selderij'],,695,2.3505317885838006,530
+37,AH Griekse moussaka verspakket,[],,2137,0.4252546867243395,366
+38,AH Risotto met garnaal verspakket,[],,1872,4.673925663639949,667
+39,AH Griekse kofta verspakket,[],,405,3.79830592145972,671
+40,AH Hummus,[],2.00,250,1.9978437276853773,768
+41,AH Tomatenpuree 4-pack,[],,1527,4.361631482944082,578
+42,AH Gepelde tomaten,[],0.49,840,1.0982118944133785,907
+43,AH Verse pestosaus groen,[],2.29,40,2.267929767227663,601
+44,Doritos Nacho cheese flavour chips,[],1.59,640,2.8779244893701854,655
+45,Unox Kip good noodles,[],1.55,210,4.911031690933746,28
+46,AH Verse spaghetti all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.19,1109,1.2022677458389168,630
+47,AH Pikante hummus,[],2.00,2158,3.9335339439099255,240
+48,AH Medjoul dadels,[],2.99,1655,1.3394772284575673,350
+49,AH Biologisch Volkoren spaghetti,"['Glutenbevattende Granen, Tarwe']",1.29,538,2.7398141706832115,971
+50,AH Macaroni volkoren,"['Glutenbevattende Granen, Tarwe']",0.99,1135,2.152315176537138,453
+51,Grand' Italia Spaghetti tradizionali,[],1.65,1439,1.3822162449724966,629
+52,AH Cassave,[],0.99,914,1.8654266771828076,202
+53,AH Pastasaus classic,[],0.99,613,1.3756640363980206,310
+54,Doritos Nacho cheese,[],2.29,420,3.5576190809839363,75
+55,Conimex Wok noodles,"['Tarwe, Glutenbevattende Granen']",1.39,1672,2.892672290280191,515
+56,Koopmans Mix voor pannenkoeken origineel,"['Tarwe, Rogge, Glutenbevattende Granen']",1.19,0,1.865292751978989,721
+57,AH Basmatirijst,[],1.99,397,3.6254582719627013,550
+58,AH Kappertjes,[],0.79,989,2.562088580151479,411
+59,AH Tortilla naturel wraps,[],0.89,722,2.568112170798838,6
+60,Conimex Cassave kroepoek,[],1.39,938,4.598639470806944,95
+61,AH Mienestjes,"['Glutenbevattende Granen, Tarwe']",0.99,92,4.122514587619197,20
+62,AH Groene olijven met basilicum,[],2.00,100,2.9418588946886244,452
+63,AH Patent tarwebloem,[],0.49,2148,1.6355723092563217,252
+64,Santa Maria Tortilla wraps medium,[],2.09,547,0.2173158870980596,641
+65,Heinz Tomatenpuree,[],0.45,875,1.7080644329685497,694
+66,AH Pizzadeeg,"['Glutenbevattende Granen, Tarwe']",1.85,13,4.6106218235132905,493
+67,AH Pestospread,[],2.00,898,3.813576263416093,790
+68,Reddy Zonnebloemolie,[],3.29,353,2.4589117861531684,103
+69,AH Super croissants,"['Glutenbevattende Granen, Tarwe']",2.79,1183,4.430622533505812,193
+70,AH Hummus zongedroogde tomaat,[],2.00,667,4.723881142786844,129
+71,AH Verse gnocchi,[],2.69,2190,0.230315984849635,379
+72,Santa Maria Tortilla wraps large,[],1.99,794,3.905303256359214,175
+73,AH Olijfolie mild,[],5.99,1334,2.410442808322346,758
+74,AH Quiche Lorraine,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",3.69,1239,4.843698231810895,644
+75,AH Verse tortelloni verdi ricotta e spinaci,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,1086,3.3576384502392194,215
+76,Wijko Saté saus kant en klaar,[],0.99,1526,4.627446918993563,761
+77,AH Suikerklontjes,[],1.19,1207,0.15052059214574254,478
+78,Bon Coco Kokosmelk klappermelk light,[],0.95,179,2.5822723881141947,960
+79,AH Fusilli,"['Glutenbevattende Granen, Tarwe']",1.09,37,0.4043752832277181,798
+80,AH Verse lasagne all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.19,297,3.1399941580290114,780
+81,AH Groene olijven met witte kaas,[],,1017,4.354333314232716,410
+82,Santa Maria Tortilla wraps tarwe & volkorentarwe M,[],2.19,293,0.12167697116499399,856
+83,Magioni Bloemkool pizzabodem,"['Glutenbevattende Granen, Tarwe']",3.99,1753,1.7948606961482094,812
+84,AH Tortilla wraps volkoren medium,[],1.19,576,4.456037408106769,372
+85,AH Nacho chips naturel,[],1.29,391,0.019874717063667613,882
+86,AH Verse pastasaus pomodori mascarpone,[],2.29,916,4.98648288234239,502
+87,Honig Basis voor macaroni en spaghetti,['Selderij'],1.49,196,0.4294029457768028,435
+88,AH Biologisch Fusilli volkoren,"['Glutenbevattende Granen, Tarwe']",1.29,207,4.197030238945157,428
+89,Santa Maria Kruidenmix taco,[],0.99,221,1.3172292248805184,391
+90,Van Gilse Poedersuiker,[],1.09,752,0.545907785181402,692
+91,AH Verse ravioli 5 formaggio,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,2142,3.388076649931244,391
+92,AH Hummus pakket,[],6.00,1527,0.6396549980984823,162
+93,Remia Satesaus,[],1.65,500,1.1605320338174807,270
+94,Maggi Jus naturel juspoeder,[],0.55,241,0.24363838591907716,265
+95,AH Spaghetti en penne pakket,[],1.78,1280,1.9543843999067556,122
+96,AH Groene olijven zonder pit,[],0.59,312,0.41977578595397025,961
+97,AH Vers bladerdeeg,[],1.19,1373,3.7380442576117403,839
+98,AH Risotto rijst,[],1.65,1411,2.9925363873895505,111
+99,Grand' Italia Sugocasa tradizionale pastasaus,[],2.49,619,0.6563733892153767,249
+100,No Fairytales Wortel tortilla wrap,[],2.65,1158,3.8655914617077585,272
+101,Doritos Cool american flavour chips,[],1.59,109,3.8981042213706574,532
+102,AH Indonesische gebakken uitjes,[],0.79,1986,0.4348041754228482,647
+103,AH Biologisch Tomatenblokjes,[],1.49,123,3.9775797142061653,818
+104,AH Zongedroogde tomaten,[],1.09,2017,2.3011238312207642,585
+105,AH Zilvervlies rijst,[],1.99,315,4.325371941261665,736
+106,AH Witte snelkook rijst,[],1.09,1112,3.986476737743766,72
+107,Conimex Kroepoek Bali,[],1.49,1222,1.9823039265675824,726
+108,Dr. Oetker Gist levure,[],0.75,1396,1.8868966537248177,593
+109,Danerolles Croissants classic,[],2.15,439,3.8904294377903685,895
+110,Lassie Toverrijst,[],1.29,1963,1.6232233358587556,232
+111,AH Mammoet olijven,[],2.00,544,0.6644405892105865,11
+112,Grand' Italia Fusilli tradizionali,[],1.69,411,3.089835069711783,375
+113,Grand' Italia Penne tradizionali,[],1.65,4,4.844302498792198,476
+114,Tante Fanny Vers flammkuchendeeg,[],1.99,796,4.03337768169781,156
+115,AH Hummus gegrilde groenten,[],2.50,548,1.6423710863863143,898
+116,AH Biologisch Kalamata olijven met pit,[],2.50,1491,1.9158176466028087,848
+117,AH Biologisch Basilicum pesto,[],3.00,949,1.2846779700093842,224
+118,Unox Gelderse rookworst,[],2.69,448,2.260812377684821,290
+119,AH Chorizo,[],1.69,683,0.5877390927284332,450
+120,Mutti Pomodori pelati,[],1.35,803,4.428289932611145,297
+121,Doritos Sweet chili pepper flavour chips,[],1.59,1743,1.480511583579402,476
+122,Knorr Maaltijdmix macaroni,[],1.15,763,2.3597277930082425,197
+123,Heinz Tomaten blokjes naturel,[],1.09,817,3.357251612774311,781
+124,Patak's Mini naan garlic & coriander,[],2.09,1274,3.5631195162371183,812
+125,AH Quiche spinazie geitenkaas,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",3.49,967,2.9557150476786913,495
+126,AH Olijfolie extra vierge,[],6.49,40,1.8672475000713573,643
+127,AH Gepelde tomaten 4-pack,[],,1877,0.6281501684956592,615
+128,AH Tortilla meergranen wraps,[],1.49,1700,3.472200611116087,601
+129,Lubelskie Mtyny Wheat flower,[],1.49,1824,0.2060635689483481,551
+130,AH Gelderse rookworst,[],1.26,230,4.6614872171052255,32
+131,AH Farfalle,"['Glutenbevattende Granen, Tarwe']",1.05,1242,0.2851555471672368,67
+132,Heinz Tomaten gezeefd,[],0.89,43,2.625382497047808,892
+133,Van Gilse Kristalsuiker,[],0.85,1895,1.6335671180377194,173
+134,AH Pijnboompitten,[],6.99,2185,2.5851594777561053,788
+135,AH Suikerstaafjes,[],0.85,1516,0.27925669532365194,114
+136,Timson Rinse appelstroop,[],1.75,1044,1.724503710057585,43
+137,AH Taco schelpen,[],1.49,1800,2.9114701381938253,494
+138,Fairtrade Original Kokosmelk,[],2.25,1565,0.8265344636220945,802
+139,Conimex Kroepoek lange plak,[],1.29,1161,0.46917969036465057,414
+140,AH Tagliatelle,[],1.49,528,4.726146580714509,988
+141,AH Pannenkoekmix,[],0.54,1737,3.3184149852889084,740
+142,AH Biologisch Hummus,[],2.50,314,4.246716771698092,763
+143,AH Zwarte olijven zonder pit,[],0.99,1672,0.4742838076755379,545
+144,Conimex Kroepoek java,[],1.39,31,3.6289618511792083,217
+145,AH Courgette spaghetti,[],1.99,28,3.7714452058137375,555
+146,AH Cranberries,[],1.74,583,1.6576695152045828,884
+147,Maggi Jus stamppot juspoeder,[],0.59,1944,1.92875621323793,340
+148,AH Bloemkoolrijst,[],2.09,104,4.683993458423791,931
+149,Maza Hoemoes tomaat basilicum,[],2.19,381,3.8835371219999546,403
+150,AH Verse ravioli bolognese,"['Eieren, Glutenbevattende Granen, Tarwe']",2.29,1316,1.9554691916466753,598
+151,Go-Tan Chilisaus sweet original,[],2.89,1550,2.4794792343774485,877
+152,Koopmans Mix voor pannenkoeken compleet,"['Tarwe, Rogge, Glutenbevattende Granen, Melk, Eieren']",1.29,1419,4.3320447581423585,42
+153,Doritos Pure paprika flavour,[],1.65,632,0.6484312753704108,61
+154,AH Pijnboompitten,[],4.99,51,4.977918849716443,485
+155,Lassie Zilvervliesrijst kortkokend,[],1.29,648,0.714362866264861,415
+156,AH Klassieke hummus,[],2.50,2188,3.2820438446503286,871
+157,AH Quiche kip pesto spinazie,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",3.69,1370,1.6991892632099543,147
+158,Go-Tan Coconut milk,[],1.39,458,2.2665745966441535,878
+159,Yum Yum Shrimp flavour instant noodles,[],0.55,82,2.5435517248018185,109
+160,Unox Groente good noodles,"['Selderij, Soja, Tarwe, Glutenbevattende Granen']",1.55,861,4.0321921095024145,759
+161,Kikkoman Sojasaus,[],3.09,2094,3.7496530423718077,86
+162,AH Verse perle prociutto crudo,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,403,3.8739213227338416,393
+163,AH Biologisch Gepelde tomaten in tomatensaus,[],0.99,2166,2.0618465968213555,455
+164,AH Paneermeel naturel beschuit,[],0.45,1066,2.19651729203337,978
+165,AH Basmati rijst,[],2.59,2033,0.717909140595272,10
+166,Magioni pizzabodems voordeelpakket,[],,1679,1.7475736176887153,895
+167,Conimex Ketjap manis,[],1.19,461,4.212161155155142,797
+168,AH Pizzabodem houtoven,"['Glutenbevattende Granen, Tarwe']",2.99,316,4.924322744641408,201
+169,Go-Tan Sweet chilli sauce,[],1.99,2125,4.51848964793217,665
+170,AH Verse ravioli formaggio e pomodoro,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,763,0.6782455668762055,14
+171,Knorr Wereldgerechten Indiase kip tandoori,"['Selderij, Glutenbevattende Granen, Lactose, Melk, Soja, Tarwe']",3.09,1544,4.796169270724954,526
+172,Santa Maria Nacho chips original,[],2.99,1575,1.1696047508587226,521
+173,AH Zelfrijzend bakmeel,[],0.90,374,1.4663933906859645,279
+174,AH Biologisch Zonnebloemolie,[],3.49,378,3.1373891721405367,515
+175,AH Rozijnen,[],0.99,323,1.931704550910458,375
+176,AH Verse pastasaus Napolitana,[],2.29,197,2.6523589332071267,901
+177,Heinz Tomato Frito,[],1.75,1514,1.0416908138290992,102
+178,AH Verse pappardelle all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.19,2060,1.2277051454560168,453
+179,AH Sweet chili sauce,[],0.95,1268,1.7484709995966026,468
+180,Wijko Satésaus kant en klaar,[],2.05,35,3.251322231740855,29
+181,AH Kaas pesto dip,[],2.50,897,0.13904869347603876,562
+182,AH Suikerklontjes 4-pack,[],,1428,0.24392108486586184,815
+183,AH Paneermeel naturel broodkruim,[],0.39,140,1.2587984681033626,575
+184,Heinz Tomaten gepeld,[],0.79,846,4.09075927919204,876
+185,Knorr Veggie wraps 35% wortel,[],2.55,1089,3.76531842975717,616
+186,Van Gilse Witte basterdsuiker,[],1.05,1066,3.2966862553890537,554
+187,La Morena Tortilla wraps,[],2.59,1105,1.9575013476863075,245
+188,AH Geroosterde pijnboompitten,[],2.69,1474,4.73373797538412,51
+189,Knorr Wereldgerechten lasagnette napoletana,"['Glutenbevattende Granen, Lactose, Melk, Mosterd, Soja, Tarwe']",3.73,1911,4.905430427283207,351
+190,Grand' Italia Pesto alla Genovese,[],,2099,1.3460338262016769,794
+191,Knorr Wereldgerechten Mexicaanse burritos,"['Selderij, Glutenbevattende Granen, Tarwe']",2.95,62,0.7714199896305973,367
+192,AH Biologisch Kokosmelk,[],1.29,253,4.924402477450885,409
+193,Patak's Naan garlic & coriander,[],2.09,217,0.4595130009317433,351
+194,Mutti Doppio concentrato di pomodoro,[],1.09,1178,2.4581660499303615,766
+195,AH Pesto rosso,[],1.19,455,3.4138646165560353,183
+196,Doritos Sweet chilli pepper,[],2.29,174,4.063390638852048,353
+197,AH Gnocchi,"['Glutenbevattende Granen, Tarwe']",1.99,607,1.7462577363804126,53
+198,AH Salsa mild,[],1.09,1253,3.958800318130778,197
+199,Arm & Hammer Pure baking soda,[],1.69,1481,4.554357164706971,624
+200,AH Poedersuiker,[],0.73,2119,1.7629408922277956,679
+201,Duryea Maizena,[],0.59,1838,0.3948713970126527,468
+202,Chicken Tonight Zoetzuur perzik,"['Glutenbevattende Granen, Soja, Tarwe']",2.39,1916,4.571694857823395,777
+203,Conimex Ketjap manis,[],1.99,634,2.1270247101225754,442
+204,Grand' Italia Spaghetti all'uovo,[],2.29,1888,0.7504241759137886,132
+205,No Fairytales Paprika & chili tortilla,[],2.65,359,3.710118939316484,648
+206,AH Pesto alla genovese,[],2.29,2180,4.807143399719635,186
+207,Mutti Passata gezeefde fluweelzachte tomaten,[],1.49,672,4.537882733636901,354
+208,Wester Ruwe rietsuiker,[],1.49,798,0.7664939836170442,228
+209,Doritos tortilla chips borrel & snack,[],4.58,1053,1.6594027498539288,391
+210,Van Gilse Donkere basterdsuiker,[],1.09,1414,2.757536730058021,575
+211,Unox Gelderse rookworst,[],1.45,1015,1.0884396240217602,874
+212,AH Zoete pompoenhummus,[],2.00,545,1.724968326882198,724
+213,Conimex Boemboe sajoer boontjes,[],1.45,310,0.06154056200933844,510
+214,Yum Yum Chicken flavour instant noodles,[],1.09,1755,4.768378012193851,466
+215,Go-Tan Kokosmelk,[],2.19,1372,3.048577618246578,288
+216,Mutti Tomatenpulp in stukjes bio,[],1.59,776,3.684164727640386,107
+217,AH Tortilla chips nacho cheese flavour,[],0.99,1113,0.6693780128057841,572
+218,AH Satésaus kant-en-klaar,[],1.53,1287,0.2382373518054437,880
+219,AH Excellent Fuet Iberico,[],3.39,1673,4.948100938241232,113
+220,Mutti Passata gezeefde fluweelzachte tomaten,[],2.09,1327,3.087018456242458,153
+221,Grand' Italia Pipe rigate tradizionali,[],1.69,1744,3.115680995724982,471
+222,Unox Gelderse xxl rookworst 2015,[],3.39,1514,0.7385651246857072,399
+223,Mutti Dubbel tomatenconcentraat,[],1.35,204,4.781985595205072,943
+224,AH Tomaten fijngesneden knoflook-Ui,[],1.09,1576,0.7376350543567561,286
+225,No Fairytales burrito pakket (compleet),[],10.29,1093,3.862695541913218,427
+226,AH Taco seasoning mix,[],0.59,2039,0.12775373525513667,214
+227,AH Biologisch Kalamata olijven zonder pit,[],1.99,389,3.068802284260299,2
+228,AH Verse pastasaus pomodori-basilicum,[],2.29,544,0.7347064143587706,493
+229,AH Biologisch Tarwebloem,[],1.59,473,3.184209631270552,252
+230,AH Verse ravioli ai funghi,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,148,2.291119536498379,873
+231,Unox Rookworst extra mager,[],2.39,74,0.45413865891766325,292
+232,AH Biologisch 100% Appelstroop,[],3.29,1749,3.9302174927644415,981
+233,AH Formaggio tapenade,[],2.00,1722,0.2918639685627167,97
+234,AH Verse tagliolini bicolore con spinaci,"['Eieren, Glutenbevattende Granen, Tarwe']",2.19,1518,3.573050699340893,16
+235,Saitaku Sushi rice,[],2.89,2107,1.5043745886840187,653
+236,Maggi Jus rundvlees juspoeder,[],2.19,67,2.9131741188899847,125
+237,AH Quiche Mediterrane groente,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",3.69,1728,4.329817224109553,715
+238,Conimex Atjar tjampoer,[],1.09,1862,1.6652418388373724,84
+239,Koopmans Hartige taartdeeg 10 plakjes,"['Tarwe, Glutenbevattende Granen']",1.49,1276,0.0711493402276192,279
+240,Remia Satesaus,[],1.19,1145,1.214396428752516,56
+241,Honig Basis voor lasagnesaus,"['Melk, Soja, Tarwe, Glutenbevattende Granen']",1.59,76,1.0229271456006677,498
+242,AH Biologisch Biologische verse tagliatelle all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.29,1961,3.9429728477988553,291
+243,Bertolli Olijfolie classico,[],9.55,2166,1.0929029475137753,954
+244,AH Bruschetta tomaatsalade,[],2.00,585,0.8793344702386885,84
+245,No Fairytales Bieten tortilla,[],2.65,285,0.9793918229010967,12
+246,Grand' Italia Farfalle tradizionali,[],1.65,967,0.13690720509429766,457
+247,AH Biologisch Passata di pomodoro,[],1.85,2138,2.067887922241926,599
+248,Wijko Satésaus kant en klaar,[],2.59,1731,1.2738167894080032,268
+249,Go-Tan Gebakken uitjes,[],0.95,1793,1.5322844264121782,30
+250,Mutti Pomodoro San Marzano,[],2.19,2167,4.5568626186117145,725
+251,AH Sappige magere rookworst,[],1.25,875,0.7732222259520671,64
+252,Grand'Italia pasta pesto met tomaten	,[],,1426,1.7871197907587595,967
+253,Conimex Boemboe nasi goreng,[],1.45,1712,2.0626076245914637,24
+254,AH Witte snelkook rijst,[],1.49,856,1.0119785776082368,259
+255,AH Biologisch Medjoul dadels,[],3.39,733,3.88153515974675,399
+256,Chicken Tonight Hawaï,['Selderij'],2.39,1026,1.1393103371468376,279
+257,Honig Krulvermicelli middel,"['Tarwe, Glutenbevattende Granen']",0.99,895,0.9654112234185214,830
+258,Mutti Polpa met basilicum,[],1.45,745,3.7578315502565536,388
+259,AH Indonesische kroepoek,"['25 gram', '4']",1.19,1150,4.864178630001584,759
+260,Conimex Chinese eiermie,[],1.35,208,1.540660962597733,353
+261,Friesche Vlag Volle melk gecondenseerd,[],1.79,644,2.5971388028412523,384
+262,Santa Maria Taco schelpen,[],1.65,2104,3.047864316525171,229
+263,Santa Maria Kruidenmix fajita,[],0.99,970,1.6451970839264751,524
+264,Patak's Mini naan plain,[],2.09,1149,3.130702342919216,52
+265,Lassie Zilvervliesrijst 1-minuutje,[],1.55,994,4.810057064168679,182
+266,AH Quiche zalm prei,"['Eieren, Vis, Melk, Glutenbevattende Granen, Mosterd, Gerst, Lactose, Tarwe']",3.69,926,3.61610247082957,218
+267,Van Gilse Fijne kristalsuiker,[],1.19,1967,2.1476773007260954,942
+268,AH Fuet,[],2.50,2047,4.417953936284127,284
+269,Knorr Wereldgerecht Mexicaanse burritos family,[],3.99,88,1.0646435565724244,485
+270,Santa Maria Nacho tortilla chips,[],1.85,2082,2.6275813295332453,2
+271,Knorr Mix voor spaghetti,"['Mosterd, Eieren, Soja, Glutenbevattende Granen, Melk']",1.19,1829,3.43230119873899,628
+272,AH Zwarte olijven plakjes,[],1.09,68,0.9276163809382271,457
+273,Verstegen Zakje Italiaanse kruiden,[],1.49,2169,0.6583338970678898,909
+274,Knorr Veggie wraps bieten,[],2.55,2088,0.26085359059520474,842
+275,Hak Taart & vlaaifruit kersen,[],2.39,1548,1.8886963299147186,824
+276,AH Verse pastasaus carbonara,[],2.29,372,1.2938239450378852,958
+277,AH Excellent Fuet catalana,[],1.79,1307,1.0204396187386071,134
+278,Jos Poell Pasteitjes traditioneel,[],0.99,691,2.6207606816874747,674
+279,AH Basis pastasaus basillicum,[],1.09,1653,0.38645022035208976,978
+280,AH Volkoren lasagne,"['Glutenbevattende Granen, Tarwe']",1.69,435,1.391857057191494,340
+281,AH Hummus pesto,[],3.00,1382,3.864704653126566,496
+282,Doritos dipping borrel chips guacemole,[],6.08,349,3.356886984974006,126
+283,AH Rozijnen,[],1.85,803,3.0479609795402673,86
+284,Grand' Italia Sugocasa erbe pastasaus,[],2.49,1792,1.5682825699193792,867
+285,Grand' Italia Mini penne tradizionali,[],1.75,1654,2.517242316660981,707
+286,AH Aardappelpuree,[],1.89,1363,4.326368916247878,421
+287,Fernandes Cherry bouquet,[],2.29,988,3.513079066781643,246
+288,AH Quiche tomaat mozzarella volkoren bodem,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",3.59,1090,0.06860731520127727,769
+289,Doritos Dippers naturel,[],1.49,666,0.16645470979763044,528
+290,Mutti Pizzasaus aromatizzata,[],1.79,1392,4.190118049942714,708
+291,AH Vlugkokende spaghetti,"['Glutenbevattende Granen, Tarwe']",0.89,838,4.601703615288129,615
+292,Honig Basis voor bami speciaal,"['Selderij, Soja, Tarwe, Glutenbevattende Granen']",1.49,723,0.08825865071652061,304
+293,AH Naanbrood naturel,[],1.69,941,0.3922989991780884,424
+294,Mutti Gepelde tomaten bio,[],1.35,1657,4.503544339303945,51
+295,Grand' Italia Spaghetti volkoren,['Soja'],1.99,2152,1.2356230190438073,343
+296,Grand' Italia Fusilli tricolori,[],2.25,58,2.7962080103124483,767
+297,AH Verse perle con basilico,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,593,2.386521099157133,820
+298,Maza Hoemoes less salt,[],1.99,6,4.016330268255484,659
+299,La Morena Tortilla wraps met maismeel medium,[],2.29,874,4.368987345701884,760
+300,AH Biologisch Sultana rozijnen,[],4.99,703,0.021906312667789862,286
+301,AH Veluwse rookworst fijn,[],3.29,1054,0.7354002270182031,30
+302,AH Trio van tapenade,[],3.00,1515,2.610363974562595,801
+303,AH Burrito seasoning mix,[],0.69,82,4.3576428807858605,751
+304,Santa Maria Spice paste for sweet pork tacos,[],1.99,935,3.215565490992251,909
+305,Unox Oosterse kip good noodles,"['Selderij, Soja, Tarwe, Glutenbevattende Granen']",0.65,1051,4.833487597062078,164
+306,Honig Macaroni normaal,[],1.39,874,1.620433584456683,178
+307,AH Macaroni vlugkokend,"['Glutenbevattende Granen, Tarwe']",0.99,1256,0.47845482850197685,908
+308,Heinz Tomaten gepeld biologisch,[],0.99,101,4.2607719027178375,477
+309,Doritos Cool american flavour,[],2.29,665,3.0800705202426886,542
+310,Dr. Oetker Backin bakpoeder,[],0.79,944,1.736477515043191,781
+311,Maggi Jus uitjes juspoeder,[],0.59,1060,1.498004490684307,491
+312,Conimex Mix voor nasi speciaal,"['Gerst, Glutenbevattende Granen, Soja, Tarwe']",1.09,1126,2.0815833888479673,568
+313,Conimex Mix satésaus,[],0.89,830,4.7489182740228575,16
+314,De Cecco Spaghetti n° 12,[],2.59,1732,1.894896111358887,411
+315,AH Biologisch Drie kleuren quinoa,[],2.39,1970,2.5277554542475675,832
+316,Santa Maria Mini taco tubs,[],1.95,2123,4.184847026836582,109
+317,AH Zilvervliesrijst,[],1.59,377,1.0323329530064052,879
+318,Maza Hoemoes rode biet,[],2.29,742,1.0203682696231642,73
+319,AH Mix voor pannenkoeken meergranen,[],0.55,388,4.1017188668260385,91
+320,Knorr Wereldgerechten Zuid-Afrikaanse bobotie,"['Eieren, Glutenbevattende Granen, Mosterd, Tarwe']",3.79,1065,2.2998313663299443,167
+321,Mutti Tomates cerises,[],1.89,276,3.6540786145785664,594
+322,AH Passata basilico,[],1.39,956,4.0050803653725495,27
+323,Santa Maria Tortilla with wholewheat organic,[],2.69,188,0.1439133905874479,823
+324,Koopmans Bladerdeeg origineel 10 plakjes,[],1.09,1724,0.13835098627472842,548
+325,Coppelia Zonnebloemolie,[],4.49,319,3.3643511627336786,529
+326,Van Gilse Mini suikerklontjes,[],1.09,2143,4.258438339092142,706
+327,Saitaku Panko breadcrumbs,[],3.19,463,2.3453782279157447,267
+328,AH Langgraan rijst,[],1.00,1736,3.417552092413214,452
+329,Danerolles Croissants extra large,[],2.99,2137,4.051378414440049,635
+330,Unox Good noodles saté,"['Melk, Soja, Tarwe, Glutenbevattende Granen']",0.65,122,2.263128955291141,812
+331,AH Verse pastasaus formaggi,[],2.29,1889,4.254041629212363,540
+332,Bertolli Kruidige pastasaus,[],3.19,1481,2.337957474176781,962
+333,Maggi Jus pikant juspoeder,[],0.59,290,0.057695727312078726,812
+334,AH Zoete olijven,[],2.00,1218,4.122811829701048,607
+335,AH Vanillesuiker,[],0.19,1818,2.749117281858286,478
+336,Unox Tandoori good noodles,"['Eieren, Soja, Tarwe, Glutenbevattende Granen']",0.65,850,0.2869453492314633,261
+337,AH Zongedroogde tomatentapenade,['10 gram'],2.00,533,1.088996076619189,613
+338,Yum Yum Duck flavour instant noodles,[],0.55,500,1.3195755786796664,415
+339,Yum Yum Beef flavour instant noodles,[],0.55,1158,4.353227385835011,398
+340,Conimex Sambal oelek vers gemalen chilipepers,[],1.35,314,2.6566421350219915,663
+341,Soubry Chinese eiermie,[],0.85,716,4.537363331347082,9
+342,Unox Kerrie good noodles,"['Soja, Tarwe, Glutenbevattende Granen']",0.65,531,3.432818235039215,956
+343,AH Taco saus mild,[],0.99,488,1.4477805740424288,782
+344,Conimex Kroepoek pittige cassave,[],1.45,1426,1.800851255471697,865
+345,Bertolli Pizzasaus originale,[],2.29,1097,4.471137547362616,756
+346,Maggi Aardappelpuree à la minute naturel,[],1.69,200,1.3825897575288437,472
+347,Knorr Wereldgerechten Thaise kip siam,"['Zeegarnaal, Schaaldieren, Cashewnoot, Noten, Selderij, Glutenbevattende Granen, Soja, Tarwe']",3.79,1542,0.022255452278551746,463
+348,Santa Maria Tortilla wraps mini,[],1.99,782,4.756839614806773,867
+349,Amoy Straight to wok udon thick noodles,[],2.09,2150,0.9730346496378006,468
+350,Royal Geroosterde rode paprika,[],,853,3.755881068833463,868
+351,AH Salade pijnboompitten,[],2.15,1363,1.138156947638761,311
+352,AH Sambal oelek,[],0.55,288,0.5420510543168716,377
+353,AH Biologisch Pijnboompitten,[],5.99,2136,0.2708485238053687,693
+354,Calvé Pindasaus mild,[],2.49,1048,3.4647980395206175,949
+355,AH Extra rinse appelstroop,[],0.99,1300,2.2786652751917336,228
+356,AH Salade croutons knoflook,[],0.71,449,0.742465709178935,35
+357,Euroma Italiaanse kruiden vriesdroog,[],,428,0.6191770198145685,194
+358,Verstegen Italiaanse kruiden,[],2.19,173,3.843972233679361,190
+359,Maggi Ovenschotel prei kerrie kruidenmix,[],1.09,2099,2.514471790931418,709
+360,Grand' Italia Macaroni tradizionali,[],1.75,76,3.308223210072976,806
+361,AH Biologisch Zonnebloempitten,[],3.99,122,0.9547277720295388,953
+362,Maggi Jus rundvlees juspoeder,[],0.59,304,3.850529805757343,964
+363,Lassie Panklaar zilvervliesrijst,[],1.25,166,3.348183821367337,513
+364,Lassie Basmatirijst extra vezels,[],1.99,1231,3.0824043113433017,52
+365,Bertolli Pastasaus basilico,[],3.29,1048,4.4031839623172395,354
+366,Go-Tan Original wok teriyaki,[],1.99,1361,4.954549458417151,839
+367,Magioni Courgette bodem,[],3.99,749,1.151496471163869,678
+368,De Cecco Penne rigate n° 41,[],2.59,1571,2.283624776076416,246
+369,Lassie Toverrijst builtje,[],1.49,1391,3.982602733326022,443
+370,Santa Maria Dip tex mex style,[],2.29,2003,4.905059563059482,397
+371,Yum Yum Vegetable flavour instant noodles,[],0.55,655,0.3378637571339832,916
+372,AH Roomboter bladerdeeg,[],1.79,701,3.5908716937019376,716
+373,AH Ketjap manis,[],0.89,1254,0.23357715584297,288
+374,Van Gilse Lichte basterdsuiker (lichtbruin),[],0.95,1627,0.7588816003945664,72
+375,Chicken Tonight Kerrie,"['Eieren, Glutenbevattende Granen, Mosterd, Selderij, Tarwe']",2.39,1084,1.0821458792539302,661
+376,Koopmans Schudfles pannenkoeken origineel,"['Tarwe, Eieren, Rogge, Glutenbevattende Granen']",1.49,126,1.9703013234920708,779
+377,Kikkoman Soy sauce minder zout,[],3.39,1228,2.619641112241504,782
+378,Bertolli Pesto rosso,[],,2037,1.3096950051435796,978
+379,Knorr Wereldgerechten lasagne bolognese,"['Tarwe, Glutenbevattende Granen']",3.59,43,2.770712952319734,238
+380,Chicken Tonight Saté,"[""Pinda'S, Eieren, Glutenbevattende Granen, Soja, Tarwe""]",2.39,1610,0.5672959661980531,281
+381,AH Nocellara olijven rozemarijn-peper,[],2.00,1863,2.142702238721461,931
+382,AH Verse tortelloni formaggio e noci,"['Eieren, Melk, Noten, Glutenbevattende Granen, Lactose, Walnoot, Tarwe']",2.29,1598,2.670526461181322,504
+383,Knorr Wereldgerechten Italiaanse risotto,"['Selderij, Lactose, Melk']",3.59,1385,1.46449650385011,542
+384,AH Biologisch Pastasaus basilicum,[],1.39,936,2.5364003211874113,739
+385,AH Biologisch Mango,[],4.99,614,0.033175575474868046,47
+386,Bertolli Pastasaus tradizionale,[],3.29,1131,3.151673166166811,63
+387,AH Couscous,[],1.35,1309,1.829253844810792,412
+388,Honig Basis voor spaghettisaus bolognese,[],1.59,642,1.9600635977543575,70
+389,Koopmans Waldkorn broodmix meergranen,"['Glutenbevattende Granen, Tarwe, Gerst, Haver, Rogge', 'Eieren, Melk']",1.79,1015,0.3012787939438605,828
+390,AH Biologisch Appelstroop,[],3.59,837,1.4397906005556593,644
+391,AH Biologisch Passata di pomodoro fijn gekruid,[],1.95,2037,2.395496962812022,621
+392,Bertolli Bolognese pastasaus,[],3.59,177,2.0820586038249775,742
+393,Heinz Tomato frito multipack,[],1.59,1183,1.3560168294245738,472
+394,AH Pistachenoten,[],3.99,2100,0.17562357743825974,808
+395,De Cecco Linguine n° 7,[],2.59,2013,2.657538771637218,84
+396,Honig Basis voor nasi speciaal,"['Soja, Tarwe, Glutenbevattende Granen']",1.49,21,0.33779133685111096,966
+397,Lassie Risotto rijst,[],1.65,634,0.8354818309755596,49
+398,AH Biologisch Spaghetti,"['Glutenbevattende Granen, Tarwe']",1.19,171,1.6192913060301584,411
+399,La Tua Farina Bloem voor pizzadeeg,[],1.19,357,1.536760428821609,644
+400,Fairtrade Original Kruidenpasta gele curry,[],1.79,2183,0.6257081652304841,743
+401,Saitaku Rice vinegar,[],2.99,1206,0.8433548819728687,676
+402,AH Olijfolie,[],4.49,1148,1.5443974164870622,472
+403,Chicken Tonight Ajam pangang,"['Glutenbevattende Granen, Soja, Tarwe']",2.39,1065,2.676999491837541,253
+404,Fairtrade Original Biologische pandan rijst bio,[],1.99,240,2.4660500143117208,905
+405,Molino Rossetto Zelfrijzend bakmeel,[],1.59,46,4.220171513524169,79
+406,Bertolli Olijfolie classico,[],5.65,2069,2.7976793896990615,857
+407,AH Pandan rijst,[],1.89,1592,1.7066750792362089,204
+408,Maza Hoemoes kerrie,[],1.99,471,1.9814074705736862,782
+409,AH Olijfolie mild,[],4.19,344,2.0979175556420913,787
+410,De Cecco Gnocchi di patate,[],2.29,373,4.915097052181835,694
+411,AH Mexicaanse mix,[],2.59,1639,1.3494426588199175,176
+412,Koopmans Mix voor pannenkoeken meergranen,[],1.29,1339,4.184753994343577,296
+413,AH Zongedroogde tomaten jullienne,[],1.99,1517,2.126615633409828,108
+414,AH Ovengebakken spekjes,[],1.19,953,4.631752629366322,926
+415,AH Dadels zonder pit,[],2.49,1028,3.474775968141185,0
+416,Conimex Mihoen fijne rijstnoedels,[],1.49,1038,3.2552449032616266,472
+417,Maple Joe Ahornsiroop,[],4.99,1547,3.7692851332573296,267
+418,Knorr Mix voor chili con carne,"['Soja, Mosterd, Selderij, Eieren, Melk, Rogge, Triticale Graan, Gerst, Haver']",1.25,214,0.3978792251813623,822
+419,Lassie Basmati rijst voordeelpak,[],2.99,743,2.3826310097380827,88
+420,AH Quiche & taartdeeg,"['Glutenbevattende Granen, Tarwe']",1.49,934,3.86084266445357,852
+421,Stegeman Licht pittige chorizo,[],3.59,661,3.2288721205313076,866
+422,AH Groentequiche bloemkool,"['Eieren, Melk, Glutenbevattende Granen, Gerst, Lactose, Tarwe']",4.19,325,2.0071208226172947,985
+423,No Fairytales Tomaten tortilla,[],2.65,344,2.75841101390274,895
+424,AH Verse tortelloni formaggio e speck,"['Eieren, Melk, Glutenbevattende Granen, Lactose, Tarwe']",2.29,1123,0.8306073688603105,511
+425,Wijko Saté saus geconcentreerd,[],3.59,240,3.0063880766956137,165
+426,AH Gegrilde rode paprika,[],1.99,1448,3.2721380424418682,98
+427,Fairtrade Original Thaise rijst noedels zilvervliesrijst,[],2.79,971,0.44868745251724795,601
+428,Lassie Pandanrijst extra vezels,[],2.09,300,3.9914502114839587,254
+429,AH Hummus zoete peper,[],2.50,117,0.3306807222239644,759
+430,AH Sauzen BBQ pakket,[],3.37,1904,2.719655695151595,779
+431,De Cecco Spaghettini n° 11,[],2.59,1290,4.564629050451953,771
+432,Knorr Foodtrips nacho ovenschotel,[],3.79,2165,3.963113203021023,576
+433,Honig Basis voor tagliatelle roomsaus,[],1.45,1524,1.2946738925592516,110
+434,Knorr Wereldgerechten indiase tandoori family,"['Selderij, Glutenbevattende Granen, Lactose, Melk, Soja, Tarwe']",4.19,2041,2.2318609426060587,948
+435,AH Biologisch Pompoenpitten,[],5.99,91,3.4635291941152833,32
+436,Maza Hoemoes XL,[],2.99,11,4.522259230569048,989
+437,AH Mix voor pannenkoeken compleet,[],1.15,764,0.603206294546661,38
+438,AH Biologisch Kokos rasp,[],2.39,460,1.7134286993022163,614
+439,Chicken Tonight Tandoori,"['Eieren, Melk, Selderij']",2.39,655,4.467342366078771,172
+440,Molensteen Biologisch tarwebloem,[],1.79,919,3.6953678580128893,160
+441,Grand' Italia Basilico,[],2.95,944,1.5474256652856093,10
+442,AH Broccoli rijst,[],1.99,1187,2.5134223099923823,561
+443,AH Biologisch Groene olijven zonder pit,[],1.49,1780,1.1543146151177996,574
+444,Heinz Tomaten blokjes basilicum & oregano,[],1.19,1000,1.4783979383529173,70
+445,AH Excellent Fuet Iberico manchego,[],3.59,450,4.211346238065488,270
+446,AH Kippenragout,"['Melk, Glutenbevattende Granen, Selderij, Lactose, Tarwe']",1.28,1124,4.653827177807074,573
+447,Knorr Wereldgerechten Griekse kofta,"['Selderij, Glutenbevattende Granen, Tarwe']",3.79,185,4.982822060792409,724
+448,Honig Lasagnebladen,"['Tarwe, Glutenbevattende Granen']",1.45,1541,1.3785126797272451,768
+449,AH Biologisch Chiazaad,[],3.99,2190,2.0223075502875294,590
+450,Grand' Italia Tortellini ai formaggi,"['Eieren, Melk, Tarwe, Glutenbevattende Granen']",4.29,421,2.6925271120502288,0
+451,Lassie Couscous,[],1.49,1819,0.28810614277035795,657
+452,Snelle Ravioli	,[],10.05,2172,2.8936956996686565,965
+453,Conimex Woksaus teriyaki,[],1.99,2010,1.5317521551177882,349
+454,AH Lasagne,[],1.25,1676,1.381592982373998,654
+455,AH Indonesische kroepoek lang,[],0.99,2120,4.152688944454375,823
+456,AH Vermicelli,"['Eieren, Glutenbevattende Granen, Tarwe']",0.99,649,0.07382434482553546,471
+457,Honig Macaroni vlugkokend,[],1.39,1432,4.903216050115404,761
+458,AH Amandelschaafsel,[],1.99,2061,2.772949632909577,716
+459,Saitaku Sushi nori,[],2.45,283,4.179055228050345,516
+460,AH Woknoedels,[],1.19,1854,2.8293866813266675,213
+461,Grand' Italia Fusilli volkoren,[],1.99,1650,0.8072386463057313,124
+462,Bertolli Pizzabodems,[],2.29,1070,4.060446362765485,763
+463,Spagheroni Tradizionale,[],1.69,604,3.4192611846971306,988
+464,Fairtrade Original Basmati rijst,[],1.99,582,2.4084205401006487,255
+465,Conimex Badjak sambal,[],1.65,508,2.4699959230614175,134
+466,AH Biologisch Mezzelune ceci e lenticchie vegan,"['Glutenbevattende Granen, Tarwe']",2.99,385,3.4505943827428047,923
+467,Dr. Oetker Vanille aroma,[],0.99,2140,4.377044541509152,207
+468,Koopmans Mix voor pannenkoeken volkoren,"['Haver, Tarwe, Glutenbevattende Granen']",1.19,1458,2.8585673550797863,230
+469,Maggi Ovenschotel bloemkool room kruidenmix,[],1.09,1360,2.485967610852999,541
+470,Vanka-Kawat Ketjap manis,[],1.99,931,1.8887243883316152,790
+471,Grand' Italia Pesto Genovese,[],,1362,4.72869641953252,660
+472,AH Pandan Rijst,[],1.69,1912,4.183285353117773,166
+473,Dr. Oetker Suiker met vanillesmaak,[],0.79,1106,1.8230051613169969,120
+474,AH Mediterrane tapenade,[],2.00,270,3.7105969368235128,242
+475,Molensteen Mix voor wit brood,[],1.35,1521,1.7324340714697106,198
+476,AH Volkoren tarwemeel,[],1.15,951,2.6248679236870553,569
+477,AH Biologisch Schelpjes pasta,"['Glutenbevattende Granen, Tarwe']",1.49,2079,3.065562500060925,804
+478,Il Molino Droge gist,[],0.69,1873,2.7688813851314995,670
+479,Go-Tan Whole wheat noodles bio-organic,[],2.49,1682,1.4436102373847732,158
+480,Conimex Bami goreng boemboe,[],1.45,570,4.985035044852378,855
+481,Patak's Tikka masala saus,"[""Noten, Pinda'S""]",2.39,545,2.062219189280628,176
+482,Knorr Trattoria kipfilet romana,"['Glutenbevattende Granen, Lactose, Mosterd, Tarwe']",3.95,620,2.2805848695986093,744
+483,Principato Lucedio Arborio risotto,[],,592,4.6656301497061605,380
+484,Go-Tan Gebakken uitjes,[],2.49,787,1.4656757209446236,970
+485,Maza Hoemoes spicy mango,[],2.69,489,1.296067752412069,382
+486,Conimex Gebakken uitjes,[],0.95,1261,4.63529585614538,685
+487,Santa Maria Kruidenmix burrito,[],0.99,387,1.5925757427666354,756
+488,AH Goudsalami,[],1.69,1587,3.9484498436181523,826
+489,AH Glutenvrij Fusilli,[],1.12,535,3.7595488531920647,809
+490,AH Pastasaus basillico,[],2.09,2011,2.4790403722168044,876
+491,Caribbean Gold Rietsuikerklontjes,[],1.85,942,1.7113731647127177,677
+492,Conimex Mix voor bami speciaal,"['Gerst, Glutenbevattende Granen, Soja, Tarwe']",1.09,1608,1.4878783023823523,741
+493,Fairtrade Original Kruidenpasta groene curry,[],1.79,1973,0.5397874869562452,649
+494,AH Verse penne volkoren all'uovo,"['Eieren, Glutenbevattende Granen, Tarwe']",2.29,1431,0.6423378895707971,823
+495,AH Sesamolie,[],2.69,391,2.3214478082450056,747
+496,Danerolles Croissants party mini's,"['Tarwe, Glutenbevattende Granen']",2.49,61,2.7164241259221016,578
+497,AH Parel Couscous,[],2.59,1007,1.2870877219230685,438
+498,Grand' Italia Mini fusilli tradizionali,[],1.75,341,1.584518334142222,73
+499,Knorr Wereldgerechten Mexicaanse taco's,['Selderij'],3.59,1134,3.7235046341342533,88
+500,AH Biologisch Bio couscous,[],1.29,1340,1.5017014446253967,193
+501,Conimex Rendang vlees boemboe,[],1.45,1903,0.995360083073939,440
+502,Knorr Wereldgerechten Indiase kip madras,"['Zeegarnaal, Schaaldieren, Glutenbevattende Granen, Melk, Mosterd, Soja, Tarwe']",3.75,2041,3.6256981743397256,694
+503,Patak's Pappadums naturel kant-en-klaar,[],2.15,558,2.5455814673219623,440
+504,Lassie Zilvervliesrijst builtje,[],1.69,1322,2.0386193288903875,397
+505,Chicken Tonight Romige tomaat,"['Eieren, Melk']",2.39,1162,3.7586949035765773,642
+506,AH Zelfrijzend bakmeel,[],0.55,120,2.4819948182637024,478
+507,Patak's Mango chutney zoet,[],2.39,507,1.1295690265332126,940
+508,Go-Tan Kokosmelk biologisch,[],2.69,191,1.7981491020916178,129
+509,Conimex Mild pindasaus,[],2.15,986,2.5553874650652424,919
+510,Schär Wraps,[],2.99,692,1.22384530794633,228
+511,La Morena Volkoren tortilla's (medium),[],2.29,1746,2.9322049102318797,406
+512,Dr. Oetker Gelatine,[],0.95,1840,1.7369352385332366,249
+513,Knorr Trattoria kipfilet toscana,"['Gerst, Glutenbevattende Granen, Lactose, Mosterd, Tarwe']",3.75,1009,4.852655241689579,326
+514,Carbonell Zwarte olijven zonder pit,[],1.25,574,0.5812529544209138,979
+515,Lassie Basmatirijst builtjes,[],2.19,2178,0.9931508137848588,430
+516,AH Paneermeel kruiden,[],0.49,733,4.76940761879271,55
+517,Grand' Italia Bolognese met rundvlees,[],3.29,1776,1.8997825635248704,439
+518,Fernandes Cherry 4-pack,[],2.99,1471,3.0765682493395947,319
+519,Mutti Pizzasaus classica,[],1.79,697,3.5879528251012682,853
+520,AH Vleeswaren borrel pakket,[],,394,1.594675649713781,500
+521,Kokki Djawa Seroendeng sedap,[],1.49,1980,4.900432665952138,643
+522,De Cecco Mezzi rigatoni n° 26,[],2.59,331,2.4251433918941934,203
+523,AH Biologisch Abrikozen,[],4.79,1647,1.516175833420026,288
+524,Knorr Mix rundvleesjus,[],0.55,1551,1.2335382726431454,985
+525,Knorr Natuurlijk lekker spaghetti bolognese,[],1.65,753,3.4472939198762633,896
+526,De Cecco Orecchiette,[],2.59,593,0.9233849785170573,760
+527,AH Notenrijst,['Amandel'],1.49,781,1.0068848281918612,519
+528,Lassie Toverrijst extra,[],1.49,1464,2.739717966795146,764
+529,Bertolli Saus in zak knoflook,[],3.19,1137,4.65162162612697,404
+530,Knorr Veggie wraps 35% groente,[],2.55,602,3.8789286112307613,722
+531,Knorr Wereldgerechten Italiaanse lasagne,"['Tarwe, Glutenbevattende Granen']",4.59,251,4.15692829686073,421
+532,Grand' Italia Penne volkoren,[],1.99,1025,2.70113187839732,167
+533,AH Groene olijven met knoflook,[],3.00,250,3.747806288102644,585
+534,Mutti Polpa met knoflook,[],1.45,359,2.3822485039871784,556
+535,Stegeman Mild gekruide salami,[],3.59,980,0.5567109883281229,887
+536,AH Trio hummus,[],2.50,1301,4.257483912270131,631
+537,Honig Basis voor chili con carne,"['Melk, Mosterd, Tarwe, Glutenbevattende Granen']",1.49,1550,1.4844622288600995,91
+538,Koopmans Bladerdeeg roomboter 10 plakjes,[],1.99,1454,1.0970926685870501,908
+539,Knorr Mix voor bami,"['Melk, Eieren, Mosterd, Rogge, Haver, Gerst']",1.25,1505,1.284278647511548,534
+540,Go-Tan Bio kokosmelk,[],2.19,989,3.751085046485975,355
+541,AH Tutti frutti,[],2.24,1737,2.8653875053548243,181
+542,AH Biologisch Linguine integrali organic vegan,"['Glutenbevattende Granen, Tarwe']",2.29,833,4.5835897933602965,584
+543,Conimex Wokolie,[],3.75,767,3.3670210160980614,607
